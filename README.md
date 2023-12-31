@@ -1,2 +1,2 @@
 # aaj-news
-https://ahsansamad.netlify.app/
+https://ahsansamad.netlify.app/aaj-new-clone/
